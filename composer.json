@@ -1,5 +1,5 @@
 {
-    "name": "gregwar/rst",
+    "name": "mamazu/rst",
     "description": "PHP library to parse reStructuredText documents",
     "keywords": ["rst", "markup", "parser"],
     "homepage": "https://github.com/Gregwar/RST",
